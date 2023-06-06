@@ -6,7 +6,7 @@ h3:nth-child(1){
     color: grey;
 }
 
-div+div>p{
+div:nth-child(5)>p{
     color: red;
 }
 
